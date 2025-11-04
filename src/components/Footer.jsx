@@ -12,7 +12,7 @@ function Footer() {
       <h3>Contact Us</h3>
       <h5><CiMail />demo@gmail.com</h5>
       <h5><CiPhone />4567980945</h5>
-      <h3>Connect with us</h3>
+      <h4>Connect with us</h4>
       <div className="d-flex justify-content-center align-items-center  gap-3">
           <h4><FaWhatsapp /></h4>
          <h4> <CiFacebook /></h4>
